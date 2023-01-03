@@ -12,8 +12,8 @@ BIRTHDAYS = "birthdays.csv"
 TXT_TO_STRIP = "[NAME]"
 LETTER_DIR = "./letter_templates"
 
-my_email = "davidh@rip1.com"
-my_password = "Palm2Squit1"
+my_email = "name@KMyDomain.com"
+my_password = "MyPassword"
 
 
 # Create tupple of day to send a card
